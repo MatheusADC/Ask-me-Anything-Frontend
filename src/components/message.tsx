@@ -9,7 +9,6 @@ interface MessageProps {
     id: string
     text: string
     amountOfReactions: number
-    // answered está como opcional
     answered?: boolean
 }
 
