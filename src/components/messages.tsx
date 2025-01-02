@@ -13,10 +13,6 @@ export function Messages() {
         throw new Error('Messages components must be used within room page')
     }
 
-    // const { messages } = use(getRoomMessages({ roomId }))
-
-    // console.log(messages)
-
     const { data } = useSuspenseQuery({
         queryKey: ['messages', roomId],
         queryFn: () => getRoomMessages({ roomId }),
