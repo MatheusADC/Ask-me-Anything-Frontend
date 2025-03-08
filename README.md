@@ -12,10 +12,10 @@ O código representa o front-end de um site que simula uma sala de perguntas.
   <img src="https://github.com/user-attachments/assets/99023f3d-8fea-49d3-8bef-81443ac98e5d">
 </div>
 
-# <img src="https://github.com/user-attachments/assets/c2f76556-62d9-425c-a565-60f596393914" alt="ícone de backend" width="28"> Back-end
+# <sub><img src="https://github.com/user-attachments/assets/578e125e-a1b4-4ea6-871f-a9c94689d617" alt="ícone de backend" width="36"></sub> Back-end
 [Back-end](https://github.com/MatheusADC/Ask-me-Anything-Backend)
 
-# <img src="https://github.com/user-attachments/assets/2bd91f82-43a7-44c6-8fb3-eaa3ca20089e" alt="ícone do terminal" width="28">  Comandos
+# <sub><img src="https://github.com/user-attachments/assets/2bd91f82-43a7-44c6-8fb3-eaa3ca20089e" alt="ícone do terminal" width="34"></sub>  Comandos
 ## Instalação do Vite
 ```
 npm install vite@latest
